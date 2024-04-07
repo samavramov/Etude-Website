@@ -1,0 +1,8 @@
+{
+  "credentials": {
+    "accessKeyId": "AKIAIOSFODNN7HFWLEF",
+    "secretAccessKey": "wJalrXUtnFEMI/K7MDENG/bPxRfiCY"
+  },
+  "region": "us-west-2",
+  "endpoint": "http://dynamodb.aws.com:8001"
+}

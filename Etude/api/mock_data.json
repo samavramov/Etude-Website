@@ -1,0 +1,86 @@
+[
+    {
+        "id": "1",
+        "first": "Lionel",
+        "last": "Messi",
+        "pic": "https://media.istockphoto.com/id/509257120/photo/the-two-modern-ballet-dancers.jpg?s=612x612&w=0&k=20&c=-cK6Y6j0vB4-OAaa-3EByDE6Nl8Vi9_588sx2lvh8rw=",
+        "Birthday": "2006-06-07",
+        "level": "Elite",
+        "comments": "on track to pass",
+        "waivers": [
+            {
+                "name": "new gymnast",
+                "url": "https://google.com",
+                "isComplete": true
+             },
+             {
+                "name": "gymnast",
+                "url": "https://google.commm",
+                "isComplete": false
+             }
+        ] 
+    },
+    {
+        "id": "2",
+        "first": "Bob",
+        "last": "The Builder",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Simone_Biles_Rio_2016e.jpg/800px-Simone_Biles_Rio_2016e.jpg",
+        "Birthday": "2009-09-18",
+        "level": "0",
+        "comments": "on track to pass",
+        "waivers": [
+            {
+                "name": "new gymnast",
+                "url": "https://google.com",
+                "isComplete": true
+             },
+             {
+                "name": "gymnast",
+                "url": "https://google.commm",
+                "isComplete": false
+             }
+        ] 
+    },
+    {
+        "id": "3",
+        "first": "Jane",
+        "last": "Doe",
+        "pic": "https://pcdn.columbian.com/wp-content/uploads/2023/08/US_Gymnastics_27520-d1c80.jpg",
+        "Birthday": "1978-02-17",
+        "comments": "on track to pass",
+        "level": "5",
+        "waivers": [
+            {
+                "name": "new gymnast",
+                "url": "https://google.com",
+                "isComplete": true
+             },
+             {
+                "name": "gymnast",
+                "url": "https://google.commm",
+                "isComplete": false
+             }
+        ] 
+    },
+    {
+        "id": "4",
+        "first": "Cristiano",
+        "last": "Ronaldo",
+        "pic": "https://media.npr.org/assets/img/2021/04/30/gettyimages-1232492096_wide-d747bec26ba21bb980c1dd60a3faf01944fb6a43-s1600-c85.webp",
+        "Birthday": "1980-01-09",
+        "comments": "on track to pass",
+        "level": "4",
+        "waivers": [
+            {
+                "name": "new gymnast",
+                "url": "https://google.com",
+                "isComplete": true
+             },
+             {
+                "name": "gymnast",
+                "url": "https://google.commm",
+                "isComplete": false
+             }
+        ] 
+    }
+]
